@@ -1,3 +1,6 @@
 [submodule "robotics/balancing_robot"]
 	path = robotics/balancing_robot
 	url = https://github.com/jozeecp/balancing_robot
+[submodule "robotics/src/balancing_robot"]
+	path = robotics/src/balancing_robot
+	url = git@github.com:jozeecp/balancing_robot.git
