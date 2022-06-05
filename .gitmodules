@@ -7,3 +7,6 @@
 [submodule "robotics/libs/SerialUI"]
 	path = robotics/libs/SerialUI
 	url = git@github.com:jozeecp/SerialUI.git
+[submodule "robotics/libs/motor_drivers"]
+	path = robotics/libs/motor_drivers
+	url = git@github.com:jozeecp/motor_drivers.git
