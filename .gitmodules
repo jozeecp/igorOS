@@ -4,3 +4,6 @@
 [submodule "robotics/src/balancing_robot"]
 	path = robotics/src/balancing_robot
 	url = git@github.com:jozeecp/balancing_robot.git
+[submodule "robotics/libs/SerialUI"]
+	path = robotics/libs/SerialUI
+	url = git@github.com:jozeecp/SerialUI.git
