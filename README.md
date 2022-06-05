@@ -1,6 +1,6 @@
 # igorOS
 
-Serverless Maker Automation Platform
+Jose Catarino's Monorepo for embedded projects and maker's lab automation
 
 ## Overview
 
@@ -14,4 +14,4 @@ The goal of igorOS is to be a collection of software tools to automate and orche
 
 ### Infrastructure
 
-Currently, igorOS is being built to run on OpenWhisk as a Serverless application. The reason for this is to have the ability to run it locally and in the cloud.
+The hope is that eventually the code will migrate to a serverless backend where it makes sense. For now, all "cloud" functionality is running on my local server, accessible via a Flask app REST API.
